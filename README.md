@@ -1,5 +1,7 @@
 # Airline Tweets Sentiment Analysis
 
+Jun 4 2023 | Hugo Hiraoka | hhiraokawatts@gmail.com
+
 Twitter possesses 330 million monthly active users, which allows businesses to reach a broad population and connect with customers without intermediaries. On the other hand, there’s so much information that it’s difficult for brands to quickly detect negative social mentions that could harm their business.
 
 That's why sentiment analysis/classification, which involves monitoring emotions in conversations on social media platforms, has become a key strategy in social media marketing.
@@ -35,7 +37,7 @@ The dataset has the following columns:
 
 ## Objectives
 
-To conduct a sentiment analysis about the problems of the major US airlines. Provide insights about which techniques yields better performance to provide valuable insights.
+To conduct a sentiment analysis about the problems of the major US airlines. Provide insights about which techniques yield better performance to provide valuable insights.
 
 
 
