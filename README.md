@@ -6,7 +6,11 @@ That's why sentiment analysis/classification, which involves monitoring emotions
 
 Listening to how customers feel about the product/service on Twitter allows companies to understand their audience, keep on top of what’s being said about their brand and their competitors, and discover new trends in the industry.
 
-##Data Description
+![](https://i.imgur.com/TtvR0Y0.jpg)
+AI generated image.
+
+
+## Data Description
 
 A sentiment analysis job about the problems of each major U.S. airline. Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service").
 
@@ -29,7 +33,7 @@ The dataset has the following columns:
 - user_timezone
 
 
-##Objectives
+## Objectives
 
 To conduct a sentiment analysis about the problems of the major US airlines. Provide insights about which techniques yields better performance to provide valuable insights.
 
