@@ -8,7 +8,7 @@ That's why sentiment analysis/classification, which involves monitoring emotions
 
 Listening to how customers feel about the product/service on Twitter allows companies to understand their audience, keep on top of what’s being said about their brand and their competitors, and discover new trends in the industry.
 
-![](https://i.imgur.com/TtvR0Y0.jpg)
+![Customer Image](https://i.imgur.com/uJ9AFps.jpg)
 AI generated image.
 
 
