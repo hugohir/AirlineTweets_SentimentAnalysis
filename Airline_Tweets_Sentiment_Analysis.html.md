@@ -1,1 +1,1 @@
-[Render html version: Airline Tweets Sentiment Analysis](https://htmlpreview.github.io/?https://htmlpreview.github.io/?https://github.com/hugohiraoka/Airline_Tweets_Sentiment_Analysis/blob/main/html/Airline_Twitter_SentimentAnalysis.html)
+[Render html version: Airline Tweets Sentiment Analysis](https://htmlpreview.github.io/?https://github.com/hugohiraoka/Airline_Tweets_Sentiment_Analysis/blob/main/html/Airline_Twitter_SentimentAnalysis.html)
